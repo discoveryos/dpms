@@ -25,4 +25,7 @@ convert
 ?Example: python dpms_utils.py gui
 ?help
 ?Purpose: Displays a list of all available commands and their descriptions.
+
 ?Example: python dpms_utils.py help
+?dpms-get
+?Purpose: To fetch a package but in a fast way
